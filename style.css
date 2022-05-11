@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+#navbar{
+    background-color: #F5F9FC;
+}
+
+.nav-menu{
+    width: 40%;
+}
+
+.menu-nav{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.menu-nav:hover{
+    font-weight: 500;
+}
+
+#banner{
+    height: 85vh;
+    width: 100%;
+    overflow: hidden
+}
+
+.text-banner{
+    width: 62%;
+}
+
+.image-banner{
+    width: 38%;
+}
+
+.banner-title, .banner-subtitle{
+    font-family: 'Play', sans-serif;
+}
+
+.banner-title{
+    font-size: 48px;
+}
+
+.banner-subtitle{
+    font-size: 20px;
+    color: #4D4D4D;
+}
+
+.banner-1{
+    right: -100px;
+    top: -250px;
+}
+
+#main{
+    background-color: #F5F9FC;
+    padding-bottom: 54px;
+}
+
+.webinar{
+    margin-top: 54px;
+}
+
+.non-button{
+    border-radius: 5px;
+    background-color: #02BA69;
+    color: #fff;
+    display: inline-block;
+}
+
+.main-title{
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.main-subtitle{
+    font-family: 'Play', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 150%;
+}
+
+.main-button{
+    background-image: linear-gradient(to right, #369A90, #005571) !important;
+    color: white;
+    font-weight: 400;
+}
